@@ -41,7 +41,7 @@ namespace ProjectIX.NPCs.RiftWurm
             npc.value = Item.buyPrice(0, 10, 0, 0);
             npc.npcSlots = 1f;
             npc.netAlways = true;
-			music = mod.GetSoundSlot(SoundType.Music, "Sounds/Music/BattleChipZ");
+			music = mod.GetSoundSlot(SoundType.Music, "Sounds/Music/SphereAssault");
         }
 
         public override void ScaleExpertStats(int numPlayers, float bossLifeScale)
