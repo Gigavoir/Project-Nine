@@ -1,0 +1,12 @@
+C:\Users\Preston\Documents\My Games\Terraria\ModLoader\Mod Sources\ProjectIX\bin\Debug\ProjectIX.dll
+C:\Users\Preston\Documents\My Games\Terraria\ModLoader\Mod Sources\ProjectIX\bin\Debug\ProjectIX.pdb
+C:\Users\Preston\Documents\My Games\Terraria\ModLoader\Mod Sources\ProjectIX\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Preston\Documents\My Games\Terraria\ModLoader\Mod Sources\ProjectIX\bin\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Preston\Documents\My Games\Terraria\ModLoader\Mod Sources\ProjectIX\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Preston\Documents\My Games\Terraria\ModLoader\Mod Sources\ProjectIX\bin\Debug\Microsoft.Xna.Framework.Xact.dll
+C:\Users\Preston\Documents\My Games\Terraria\ModLoader\Mod Sources\ProjectIX\bin\Debug\Terraria.exe
+C:\Users\Preston\Documents\My Games\Terraria\ModLoader\Mod Sources\ProjectIX\obj\Debug\ProjectIX.csproj.CoreCompileInputs.cache
+C:\Users\Preston\Documents\My Games\Terraria\ModLoader\Mod Sources\ProjectIX\obj\Debug\ProjectIX.csproj.CopyComplete
+C:\Users\Preston\Documents\My Games\Terraria\ModLoader\Mod Sources\ProjectIX\obj\Debug\ProjectIX.dll
+C:\Users\Preston\Documents\My Games\Terraria\ModLoader\Mod Sources\ProjectIX\obj\Debug\ProjectIX.pdb
+C:\Users\Preston\Documents\My Games\Terraria\ModLoader\Mod Sources\ProjectIX\obj\Debug\ProjectIX.csprojAssemblyReference.cache

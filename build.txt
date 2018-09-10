@@ -1,0 +1,9 @@
+author = Gigavoir
+version = 0.9.0
+displayName = Project Nine
+homepage = https://forums.terraria.org/index.php?threads/project-nine-expanding-vanilla.72460/
+hideCode = true
+hideResources = true
+includeSource = false
+buildIgnore = *.csproj, *.sln, *.user, obj\*, bin\*, .vs\*, *.exe, Debug\*, .git\*, *.md
+includePDB = true
