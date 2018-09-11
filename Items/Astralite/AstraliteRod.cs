@@ -22,7 +22,7 @@ namespace ProjectIX.Items.Astralite
 			item.width = 58;
 			item.height = 58;
 			item.useTime = 60;
-			item.useAnimation = 30;
+			item.useAnimation = 60;
 			item.useStyle = 1;
 			item.noMelee = false; //so the item's animation doesn't do damage
 			item.knockBack = 8;
